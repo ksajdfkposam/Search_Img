@@ -1,0 +1,33 @@
+body{
+   
+    padding-top: 12%;
+    padding-left: 15%;
+    padding-right: 15%;
+  
+}
+input{
+    
+    height: 50px;
+   
+}
+.imgD{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 45px;
+    
+}
+.img_1{
+    width: 30%;
+    height:21%;
+}
+.show{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.butt{
+    visibility:hidden;
+}
